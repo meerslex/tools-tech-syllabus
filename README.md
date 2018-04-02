@@ -1,8 +1,6 @@
-# Tools and Technlogies for Technical Writers - Middlesex Community College
+# Create your own blog
 
-This repository contains the syllabus for this class.
-
-Students should use Issues page for questions and discussion.
+This repository contains the manual for creating your own blog.
 
 ## Build Project
 
